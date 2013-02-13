@@ -1,20 +1,14 @@
 <scene width="400" height="400">
 	<sphere radius="10" xcenter="-10" ycenter="0" zcenter="-10" />
-	
 	<sphere radius="20" xcenter="15" ycenter="0" zcenter="0" />
- 	
  	<sphere radius="15" xcenter="-30" ycenter="-30" zcenter="-25" />
- 	
  	<plan 	x1center="-200D" 	y1center="-200D" 	z1center="0D" 
  			x2center="201D" 	y2center="-201D" 	z2center="0D" 
  			x3center="-201D" 	y3center="201D" 	z3center="0D" />
-	
 	<plan 	x1center="-201D" 	y1center="201D" 	z1center="0D" 
 			x2center="201D" 	y2center="-201D" 	z2center="0D" 
-			x3center="200D" 	y3center="200D" 	z3center="0D" />
-	
+			x3center="200D" 	y3center="200D" 	z3center="0D" />	
 	<camera nearClip="0.1f" farclip="10000.0f" FOV="45.0f" position="-90.0f" />
-	
 	<lum intensity="100000f" xcenter="0" ycenter="0" zcenter="50" />
 	
 	<!-- <lum intensity="50000f" xcenter="-15" ycenter="20" zcenter="0" /> -->
