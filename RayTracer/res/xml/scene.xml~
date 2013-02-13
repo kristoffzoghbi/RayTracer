@@ -1,0 +1,14 @@
+<scene>
+	<sphere radius="" xcenter="" ycenter="" zcenter="" />
+
+	<plan>
+		<point xcenter="" ycenter="" zcenter="" />
+		<point xcenter="" ycenter="" zcenter="" />
+		<point xcenter="" ycenter="" zcenter="" />
+	</plan>
+
+	<camera nearClip="" farclip="" FOV="" amount="" />
+
+	<lum intensity="" xcenter="" ycenter="" zcenter="" />
+	<lum intensity="" xcenter="" ycenter="" zcenter="" />
+</scene>
